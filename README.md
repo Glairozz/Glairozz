@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]  
+# 👋 Hello, I'm Glairozz Blair  
 
 **`Software Engineering Student | Aspiring Cybersecurity & AI Practitioner`**  
 
