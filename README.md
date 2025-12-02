@@ -39,11 +39,11 @@ Currently, I’m deepening my expertise in **software engineering**, while explo
 ### 📂 Featured Projects
 
 #### 🔹 Lord of the Rings Library
-[![LoTR Library](https://img.shields.io/badge/Project-Lord%20of%20the%20Rings%20Library-blue?style=for-the-badge)](https://github.com/YOUR_USERNAME/lord-of-the-rings-library)  
+[![LoTR Library](https://img.shields.io/badge/Project-Lord%20of%20the%20Rings%20Library-blue?style=for-the-badge)](https://glairozz.github.io/lord-of-the-rings/)  
 A web library inspired by the lore, characters, and worldbuilding of J.R.R. Tolkien's *The Lord of the Rings*.  
 
 #### 🔹 A Song of Ice and Fire & Dance of the Dragons Libraries
-[![ASOIAF Library](https://img.shields.io/badge/Project-ASOIAF%20%26%20Dance%20of%20Dragons-red?style=for-the-badge)](https://github.com/YOUR_USERNAME/asoiaf-dance-of-dragons-libraries)  
+[![ASOIAF Library](https://img.shields.io/badge/Project-ASOIAF%20%26%20Dance%20of%20Dragons-red?style=for-the-badge)](https://glairozz.github.io/A-Song-of-Ice-and-Fire---The-Dance-of-The-Dragons/)  
 Themed web libraries based on George R.R. Martin's *ASOIAF* universe and historical events of *Dance of the Dragons*.  
 
 ---
