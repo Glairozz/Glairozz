@@ -1,4 +1,4 @@
-# 👋 Greetings, I'm [Blair]
+# 👋 Greetings, I'm Blair
 
 **`Software Engineering Student | Aspiring Cybersecurity & AI Practitioner`**
 
