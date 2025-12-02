@@ -36,12 +36,6 @@ I am currently strengthening my foundation in **software engineering**, while al
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 ### 🔗 Connect With Me
 - 🔗 LinkedIn: [Glairozz Blair Punay](https://www.linkedin.com/in/glairozz-blair-punay-11259a380/)
 - 📫 Email: **ibotpunay@email.com**
