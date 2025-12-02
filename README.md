@@ -38,7 +38,7 @@ I am currently strengthening my foundation in **software engineering**, while al
 
 ### 🔗 Connect With Me
 - 🔗 LinkedIn: [Glairozz Blair Punay](https://www.linkedin.com/in/glairozz-blair-punay-11259a380/)
-- 📫 Email: **ibotpunay@email.com**
+- 📫 Email: **ibotpunay@gmail.com**
 - 📱 Viber: **+63995-096-0349**
 
 ---
