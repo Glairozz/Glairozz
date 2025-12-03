@@ -49,9 +49,9 @@ Themed web libraries based on George R.R. Martin's *ASOIAF* universe and histori
 ---
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)  
-[![Viber](https://img.shields.io/badge/Viber-665CAC?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=+YourViberNumber)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glairozz-blair-punay-11259a380/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibotpunay@gmail.com)  
+[![Viber](https://img.shields.io/badge/Viber-665CAC?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=+639950960349)  
 
 ---
 
