@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Glairozz Blair  
 
-**`Software Engineering Student | Aspiring Cybersecurity & AI Practitioner`**  
+**`Software Engineering Student`**  
 
 Welcome to my GitHub profile! I’m a passionate **Computer Science student** at **Manuel S. Enverga University Foundation**, dedicated to creating **well-structured, innovative, and efficient digital solutions**.
 
