@@ -1,17 +1,17 @@
 # 👋 Hello, I'm Glairozz Blair  
 
-**`Aspiring Software Engineering`**  
+**`Aspiring Software Engineering Wizard`**  
 
-Welcome to my GitHub profile! I’m a passionate **Computer Science student** at **Manuel S. Enverga University Foundation**, dedicated to creating **well-structured, innovative, and efficient digital solutions**.
+Welcome to my GitHub lair! I'm a **Computer Science student** at **Manuel S. Enverga University Foundation**, on a quest to forge **well-structured, innovative, and efficient digital solutions** that blend creativity with code. Think epic web libraries inspired by my favorite series and movies, plus Python-powered games that level up the fun!
 
 ---
 
 ### 👨‍💻 About Me
-I enjoy building **web libraries inspired by my favorite series and movies**, and I love crafting **Python-based games**.  
+I'm all about crafting **web libraries** that bring cinematic worlds to life and building **Python-based games** that challenge and entertain. When I'm not debugging code, you'll find me spiking volleyballs on the court, prioritizing **mental and physical growth** for that ultimate balance.
 
-Beyond coding, I maintain an active lifestyle — I play **volleyball** and focus on balancing **mental and physical growth**.  
+Currently leveling up in **software engineering**, while diving into the thrilling realms of **cybersecurity** and **artificial intelligence**. My goal? To become a tech superhero who solves real-world problems with a dash of geeky flair!
 
-Currently, I’m deepening my expertise in **software engineering**, while exploring **cybersecurity** and **artificial intelligence** to expand my technical skillset.
+Fun Fact: I'm obsessed with storytelling through code – if it's not epic, it's not worth building! 🚀
 
 ---
 
@@ -36,6 +36,14 @@ Currently, I’m deepening my expertise in **software engineering**, while explo
 
 ---
 
+### 📊 GitHub Stats
+![Glairozz's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true)
+
+*(Replace `your-github-username` with your actual GitHub username to make this dynamic!)*
+
+---
+
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glairozz-blair-punay-11259a380/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibotpunay@gmail.com)  
@@ -43,4 +51,14 @@ Currently, I’m deepening my expertise in **software engineering**, while explo
 
 ---
 
-✨ Thank you for visiting my profile! Let's create something amazing together.  
+### 🚀 What I'm Up To
+- 🌟 Building web libraries inspired by blockbuster series and movies.
+- 🎮 Developing Python games that are as addictive as they are fun.
+- 🏐 Spiking volleyballs and staying fit for those long coding sessions.
+- 🔍 Exploring cybersecurity and AI to unlock new tech frontiers.
+
+Got an idea for a collab? Let's chat and turn it into something legendary! 💻✨
+
+---
+
+✨ Thanks for stopping by my profile! Let's code, create, and conquer the digital universe together. If you're into epic stories, games, or just good vibes, hit me up! 🌟
