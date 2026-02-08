@@ -4,6 +4,7 @@
 
 Welcome to my GitHub lair! I'm a **Computer Science student** at **Manuel S. Enverga University Foundation**, on a quest to forge **well-structured, innovative, and efficient digital solutions** that blend creativity with code. Think epic web libraries inspired by my favorite series and movies, plus Python-powered games that level up the fun!
 
+---
 
 ### 🛠️ Tech Stack
 
@@ -23,14 +24,6 @@ Welcome to my GitHub lair! I'm a **Computer Science student** at **Manuel S. Env
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=green)
-
----
-
-### 📊 GitHub Stats
-![Glairozz's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true)
-
-*(Replace `your-github-username` with your actual GitHub username to make this dynamic!)*
 
 ---
 
