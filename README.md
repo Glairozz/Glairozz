@@ -4,16 +4,6 @@
 
 Welcome to my GitHub lair! I'm a **Computer Science student** at **Manuel S. Enverga University Foundation**, on a quest to forge **well-structured, innovative, and efficient digital solutions** that blend creativity with code. Think epic web libraries inspired by my favorite series and movies, plus Python-powered games that level up the fun!
 
----
-
-### 👨‍💻 About Me
-I'm all about crafting **web libraries** that bring cinematic worlds to life and building **Python-based games** that challenge and entertain. When I'm not debugging code, you'll find me spiking volleyballs on the court, prioritizing **mental and physical growth** for that ultimate balance.
-
-Currently leveling up in **software engineering**, while diving into the thrilling realms of **cybersecurity** and **artificial intelligence**. My goal? To become a tech superhero who solves real-world problems with a dash of geeky flair!
-
-Fun Fact: I'm obsessed with storytelling through code – if it's not epic, it's not worth building! 🚀
-
----
 
 ### 🛠️ Tech Stack
 
@@ -49,16 +39,10 @@ Fun Fact: I'm obsessed with storytelling through code – if it's not epic, it's
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibotpunay@gmail.com)  
 [![Viber](https://img.shields.io/badge/Viber-665CAC?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=+639950960349)  
 
----
 
-### 🚀 What I'm Up To
-- 🌟 Building web libraries inspired by blockbuster series and movies.
-- 🎮 Developing Python games that are as addictive as they are fun.
-- 🏐 Spiking volleyballs and staying fit for those long coding sessions.
-- 🔍 Exploring cybersecurity and AI to unlock new tech frontiers.
 
 Got an idea for a collab? Let's chat and turn it into something legendary! 💻✨
 
----
+
 
 ✨ Thanks for stopping by my profile! Let's code, create, and conquer the digital universe together. If you're into epic stories, games, or just good vibes, hit me up! 🌟
