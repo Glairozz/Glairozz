@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Glairozz Blair  
 
-**`Aspiring Software Engineering Wizard`**  
+**`Aspiring Software Engineering`**  
 
-Welcome to my GitHub lair! I'm a **Computer Science student** at **Manuel S. Enverga University Foundation**, on a quest to forge **well-structured, innovative, and efficient digital solutions** that blend creativity with code. Think epic web libraries inspired by my favorite series and movies, plus Python-powered games that level up the fun!
+Welcome to my GitHub lair! I'm a **Computer Science student** at **Manuel S. Enverga University Foundation**
 
 ---
 
@@ -32,10 +32,3 @@ Welcome to my GitHub lair! I'm a **Computer Science student** at **Manuel S. Env
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ibotpunay@gmail.com)  
 [![Viber](https://img.shields.io/badge/Viber-665CAC?style=for-the-badge&logo=viber&logoColor=white)](viber://chat?number=+639950960349)  
 
-
-
-Got an idea for a collab? Let's chat and turn it into something legendary! 💻✨
-
-
-
-✨ Thanks for stopping by my profile! Let's code, create, and conquer the digital universe together. If you're into epic stories, games, or just good vibes, hit me up! 🌟
