@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Engineer;Computer+Science+Student" alt="Typing SVG" />
 </a>
@@ -13,9 +13,9 @@
 </p>
 
 <p>
-  Specializing in robust software architectures, responsive web development,
+  Building robust software systems, responsive web applications,
   <br/>
-  and intelligent system design.
+  and intelligent solutions with a focus on practical engineering.
 </p>
 
 <br/>
@@ -26,7 +26,7 @@
 
 <div align="center">
 
-<h3>Technical Capabilities & Ecosystem</h3>
+<h3>Technical Stack</h3>
 
 <p><b>Languages & Core Systems</b></p>
 
@@ -47,7 +47,7 @@
 
 <br/>
 
-<p><b>Front-End & Interface Engineering</b></p>
+<p><b>Frontend & Interface Engineering</b></p>
 
 <p>
   <a href="https://react.dev/">
@@ -69,7 +69,7 @@
 
 <br/>
 
-<p><b>Back-End, Databases & Workflow</b></p>
+<p><b>Backend, Databases & Workflow</b></p>
 
 <p>
   <a href="https://nodejs.org/">
