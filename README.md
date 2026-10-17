@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Engineer;Computer+Science+Student" alt="Typing SVG" />
   </a>
@@ -44,7 +44,7 @@
 
   <br/>
 
-  <p><b>Frameworks & Libraries</b></p>
+  <p><b>Frameworks, Libraries & UI Development</b></p>
   <p>
     <a href="https://react.dev/">
       <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=38BDF8" alt="React"/>
@@ -66,6 +66,12 @@
     </a>
     <a href="https://docs.python.org/3/library/tkinter.html">
       <img src="https://img.shields.io/badge/Tkinter-0f172a?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Tkinter"/>
+    </a>
+    <a href="https://docs.oracle.com/javase/tutorial/uiswing/">
+      <img src="https://img.shields.io/badge/Java_Swing-0f172a?style=for-the-badge&logo=openjdk&logoColor=38BDF8" alt="Java Swing"/>
+    </a>
+    <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/awt/">
+      <img src="https://img.shields.io/badge/Java_AWT-0f172a?style=for-the-badge&logo=openjdk&logoColor=38BDF8" alt="Java AWT"/>
     </a>
   </p>
 
@@ -101,7 +107,7 @@
       <img src="https://img.shields.io/badge/Adobe-0f172a?style=for-the-badge&logo=adobe&logoColor=38BDF8" alt="Adobe"/>
     </a>
     <a href="https://code.visualstudio.com/">
-      <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" alt="VS Code"/>
+      <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" alt="Visual Studio Code"/>
     </a>
     <a href="https://www.jetbrains.com/pycharm/">
       <img src="https://img.shields.io/badge/PyCharm-0f172a?style=for-the-badge&logo=pycharm&logoColor=38BDF8" alt="PyCharm"/>
