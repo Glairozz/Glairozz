@@ -83,7 +83,7 @@
 
   <br/>
 
-  <p><b>Development Tools</b></p>
+  <p><b>Development Tools & Platforms</b></p>
   <p>
     <a href="https://git-scm.com/">
       <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=38BDF8" alt="Git"/>
@@ -91,20 +91,29 @@
     <a href="https://github.com/">
       <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/>
     </a>
+    <a href="https://vercel.com/">
+      <img src="https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=38BDF8" alt="Vercel"/>
+    </a>
+    <a href="https://www.canva.com/">
+      <img src="https://img.shields.io/badge/Canva-0f172a?style=for-the-badge&logo=canva&logoColor=38BDF8" alt="Canva"/>
+    </a>
+    <a href="https://www.adobe.com/">
+      <img src="https://img.shields.io/badge/Adobe-0f172a?style=for-the-badge&logo=adobe&logoColor=38BDF8" alt="Adobe"/>
+    </a>
     <a href="https://code.visualstudio.com/">
       <img src="https://img.shields.io/badge/VS_Code-0f172a?style=for-the-badge&logo=visualstudiocode&logoColor=38BDF8" alt="VS Code"/>
     </a>
     <a href="https://www.jetbrains.com/pycharm/">
       <img src="https://img.shields.io/badge/PyCharm-0f172a?style=for-the-badge&logo=pycharm&logoColor=38BDF8" alt="PyCharm"/>
     </a>
-    <a href="https://www.bloodshed.net/">
-      <img src="https://img.shields.io/badge/Dev--C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus&logoColor=38BDF8" alt="Dev-C++"/>
-    </a>
     <a href="https://www.jetbrains.com/idea/">
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-0f172a?style=for-the-badge&logo=intellijidea&logoColor=38BDF8" alt="IntelliJ IDEA"/>
     </a>
     <a href="https://www.netacad.com/cisco-packet-tracer">
       <img src="https://img.shields.io/badge/Packet_Tracer-0f172a?style=for-the-badge&logo=cisco&logoColor=38BDF8" alt="Cisco Packet Tracer"/>
+    </a>
+    <a href="https://www.bloodshed.net/">
+      <img src="https://img.shields.io/badge/Dev--C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus&logoColor=38BDF8" alt="Dev-C++"/>
     </a>
     <a href="https://www.figma.com/">
       <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=38BDF8" alt="Figma"/>
