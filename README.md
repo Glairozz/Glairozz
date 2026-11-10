@@ -126,14 +126,12 @@
     </a>
   </p>
 </div>
-
 <br/>
 
 ---
 
 <div align="center">
   <h3>Connect & Collaborate</h3>
-
   <a href="https://www.linkedin.com/in/glairozz-blair-punay-11259a380/">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn Profile"/>
   </a>
@@ -143,8 +141,6 @@
   <a href="viber://chat?number=+639950960349">
     <img src="https://img.shields.io/badge/Viber-0f172a?style=for-the-badge&logo=viber&logoColor=38BDF8" alt="Viber Chat Link"/>
   </a>
-
   <br/><br/>
-
   <sub>Building systems. Solving problems. Learning continuously.</sub>
 </div>
