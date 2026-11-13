@@ -14,9 +14,7 @@
   </p>
   <br/>
 </div>
-
 ---
-
 <div align="center">
   <h3>Technical Capabilities & Ecosystem</h3>
 
@@ -129,7 +127,6 @@
 <br/>
 
 ---
-——-
 <div align="center">
   <h3>Connect & Collaborate</h3>
   <a href="https://www.linkedin.com/in/glairozz-blair-punay-11259a380/">
