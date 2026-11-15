@@ -1,3 +1,4 @@
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+Engineer;Computer+Science+Student" alt="Typing SVG" />
@@ -14,7 +15,9 @@
   </p>
   <br/>
 </div>
+
 ---
+
 <div align="center">
   <h3>Technical Capabilities & Ecosystem</h3>
 
@@ -127,6 +130,7 @@
 <br/>
 
 ---
+
 <div align="center">
   <h3>Connect & Collaborate</h3>
   <a href="https://www.linkedin.com/in/glairozz-blair-punay-11259a380/">
@@ -141,3 +145,4 @@
   <br/><br/>
   <sub>Building systems. Solving problems. Learning continuously.</sub>
 </div>
+
