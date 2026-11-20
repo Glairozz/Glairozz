@@ -14,9 +14,7 @@
   </p>
   <br/>
 </div>
-
 ---
-
 <div align="center">
   <h3>Technical Capabilities & Ecosystem</h3>
 
@@ -41,7 +39,9 @@
       <img src="https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=38BDF8" alt="CSS3"/>
     </a>
   </p>
+  
   <br/>
+  
   <p><b>Frameworks, Libraries & UI Development</b></p>
   <p>
     <a href="https://react.dev/">
@@ -72,9 +72,7 @@
       <img src="https://img.shields.io/badge/Java_AWT-0f172a?style=for-the-badge&logo=openjdk&logoColor=38BDF8" alt="Java AWT"/>
     </a>
   </p>
-  
   <br/>
-  
   <p><b>Databases</b></p>
   <p>
     <a href="https://www.mysql.com/">
@@ -122,11 +120,8 @@
     </a>
   </p>
 </div>
-
 <br/>
-
 ---
-
 <div align="center">
   <h3>Connect & Collaborate</h3>
   <a href="https://www.linkedin.com/in/glairozz-blair-punay-11259a380/">
@@ -139,7 +134,5 @@
     <img src="https://img.shields.io/badge/Viber-0f172a?style=for-the-badge&logo=viber&logoColor=38BDF8" alt="Viber Chat Link"/>
   </a>
   <br/><br/>
-  
   <sub>Building systems. Solving problems. Learning continuously.</sub>
 </div>
-
